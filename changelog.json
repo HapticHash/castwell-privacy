@@ -1,0 +1,15 @@
+{
+  "releases": [
+    {
+      "versionCode": 25,
+      "version": "0.23.0",
+      "notes": [
+        "Testers get 15 days of every Pro feature, then the free plan.",
+        "The connection details now name the app the sound is coming from.",
+        "Signing in with Google works on every copy from Google Play.",
+        "On mobile data, a Turn on Wi-Fi button takes you straight to Wi-Fi.",
+        "Check for updates in Help, with what's new in each version."
+      ]
+    }
+  ]
+}
